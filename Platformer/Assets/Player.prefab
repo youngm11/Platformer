@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 711046395050607917}
   - component: {fileID: 681688494342444341}
   - component: {fileID: 1171285052851092356}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -121,7 +121,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &681688494342444341
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -192,7 +192,7 @@ GameObject:
   - component: {fileID: 2540965630953455485}
   - component: {fileID: 2109219879033729489}
   - component: {fileID: 3680513073201828139}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
